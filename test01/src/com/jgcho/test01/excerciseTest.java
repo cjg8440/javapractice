@@ -20,16 +20,9 @@ public class excerciseTest {
 		
 		long a ;
 		
-		temp.toCharArray()
 		
-		temp.charAt(arg0)
-		
-		temp.
 		
 		char b;
-		
-		
-		Integer.par
 		
 		count = temp.length();
 		
