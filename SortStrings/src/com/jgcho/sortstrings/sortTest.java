@@ -22,7 +22,7 @@ public class sortTest {
 			if (answerArr.size() == 0) {
 				answerArr.add(strings[i]);
 			} else {
-				/*for (int inx = 0; inx < i; inx++) {
+				for (int inx = 0; inx < i; inx++) {
 					if ((int)answerArr.get(inx).charAt(n) > (int)strings[i].charAt(n)) {
 						answerArr.add(inx, strings[i]);
 						break;
@@ -38,7 +38,7 @@ public class sortTest {
 						answerArr.add(strings[i]);
 						break;
 					}
-				}*/
+				}
 				
 			}
 			
